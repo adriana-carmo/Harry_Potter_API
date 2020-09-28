@@ -1,0 +1,15 @@
+
+body {
+    background: rgb(109,70,135);
+    background: linear-gradient(90deg, rgba(109,70,135,1) 0%, rgba(79,80,40,1) 50%, rgba(10,55,167,1) 100%);
+    background-attachment: fixed;   
+    background-position: center;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    color: white;
+}

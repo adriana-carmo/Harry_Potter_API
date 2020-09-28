@@ -1,0 +1,49 @@
+
+body {
+    background: rgb(38,32,42);
+    background: linear-gradient(90deg, rgba(38,32,42,1) 0%, rgba(40,47,80,1) 50%, rgba(3,14,41,1) 100%);
+    background-attachment: fixed;   
+    background-position: center;
+}
+
+#Copyright{
+    text-align:center;
+    color:grey;
+    padding-top: 3px;
+}
+
+.source{
+    color:grey;
+    font-size: smaller;
+}
+
+.center {
+    border: 5px solid #ddd;
+    width: 80%;
+    height: 320px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+ 
+h1, h2, h5 {
+    color: wheat;
+    text-align: center;
+}
+
+p,  h6{
+    color: wheat;
+    text-align: justify;
+}
+
+span {
+    color: rgb(181, 174, 163);
+    font-weight: bold;
+}
+
+/* Style page content */
+#main {
+    margin-left: 160px; /* Same as the width of the sidebar */
+    padding: 0px 10px;
+}
