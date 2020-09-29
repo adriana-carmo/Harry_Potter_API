@@ -1,7 +1,8 @@
-
 body {
-    background: rgb(109,70,135);
-    background: linear-gradient(90deg, rgba(109,70,135,1) 0%, rgba(79,80,40,1) 50%, rgba(10,55,167,1) 100%);
+   /* background: rgb(109,70,135);
+    background: linear-gradient(90deg, rgba(109,70,135,1) 0%, rgba(79,80,40,1) 50%, rgba(10,55,167,1) 100%);*/
+    background: rgb(19,29,98);
+    background: linear-gradient(60deg, rgba(19,29,98,1) 45%, rgba(148,119,21,1) 76%);
     background-attachment: fixed;   
     background-position: center;
 }

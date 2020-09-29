@@ -38,25 +38,40 @@
 }
 
 body{
-  background: rgb(19,29,98);
-  background: linear-gradient(60deg, rgba(19,29,98,1) 45%, rgba(148,119,21,1) 76%);
+  background: rgb(11,11,11);
+  background: linear-gradient(180deg, rgba(11,11,11,1) 1%, rgba(13,15,108,0.8785889355742297) 89%);
+ color: darkgrey;
+  text-align: justify;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .inner{
   text-align: center;
   font-family: "Snell Roundhand", cursive;
-  font-size: 50px;
+  font-size: 60px;
 }
 
 .imgMain{
-  width: 100%;
-  height: 600px;
+  width: 350px;
+  height: 280px;
+  margin: 5px;
+  padding: 1px;
+  border: 5px solid darkgrey;
+  display: inline-block;
+}
+
+.imgTitle{
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
 }
 
 #Copyright{
   text-align:center;
   color:grey;
-  padding: 2px;
+  padding: 3px;
 }
 
 .icon{
