@@ -4,6 +4,8 @@ body {
     background: linear-gradient(90deg, rgba(38,32,42,1) 0%, rgba(40,47,80,1) 50%, rgba(3,14,41,1) 100%);
     background-attachment: fixed;   
     background-position: center;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 #Copyright{
