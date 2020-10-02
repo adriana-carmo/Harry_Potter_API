@@ -27,11 +27,11 @@ when click on the movie button seems details of movie
 
 ### Characters
 Top 6 most famous characters
-![Image of Movie page](img/character.jpg)
+![Image of Character page](img/character.jpg)
 
 ### Houses
 It appears in the right menu the names of the houses to be selected
-![Image of Movie page](img/house_detail.jpg)
+![Image of House page](img/house_detail.jpg)
 
 ### Link GitHub
 https://adriana-carmo.github.io/Harry_Potter_API/
