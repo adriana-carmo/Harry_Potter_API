@@ -16,6 +16,11 @@ Javascript
 - The website has responsive navigation menu bar to fit all size screen.
 When the screen is small the menu is load a dropdown, otherwise appear in top of the page.
 
+- APIS
+https://www.potterapi.com
+https://www.omdbapi.com
+
+
 ### Home
 ![Image of Home page](img/home.jpg)
 
